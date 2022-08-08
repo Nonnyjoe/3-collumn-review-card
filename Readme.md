@@ -1,10 +1,6 @@
 # Frontend Mentor - 3-column preview card component solution
 # Assignment by Web3bridge 
 
-
- 
-
-
 ## Table of contents
 
 - [Overview](#overview)
@@ -20,7 +16,7 @@ This project was taken as an assignment issued by Web3bridge.
 
 ### Screenshot
 
-![Design previev for this project](./screenshot.jpg)
+![Design previev for this project](./images/final-work.png)
 
 
 ### Links
